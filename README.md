@@ -10,6 +10,7 @@ An addon for Bloxlink that check's the user's roblox and discord account age for
 ## Notes
 
 **IMPORTANT:** Make sure that you:
+
 a) Disable the "Change Nickname" permission for @everyone and your role that you're using for bloxlink verification. If left enabled, members will be able to change their username into any roblox username, making the bot check the wrong account
 
 b) Restrict the verification channel to only members who have verified with bloxlink. Otherwise, as Bloxlink has not changed their username to their roblox username, the bot will verify their user with their account's display name.
